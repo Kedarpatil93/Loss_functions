@@ -3,7 +3,7 @@ This repository contains a Python script to plot loss functions (MSE, MAE) and a
 
 ## Requirements
 - Python 3.6+
-- Matplotlib (`pip install matplotlib`)
+- Matplotlib 
 
 ## Usage
 1. Save `Loss_functions.ipynb` and run with `Loss_functions.ipynb`.
