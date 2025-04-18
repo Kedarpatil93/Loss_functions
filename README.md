@@ -1,5 +1,5 @@
 ﻿# Function Plots
-This repository contains a Python script to plot loss functions (MSE, MAE) and activation functions (Sigmoid, Softmax, Tanh, ReLU) and their derivatives with the help of python library Matplotlib
+This repository contains a Python script to plot loss functions (MSE, MAE) and activation functions (Sigmoid, Softmax, Tanh, ReLU) and their derivatives with the help of python library called Matplotlib
 
 ## Requirements
 - Python 3.6+
